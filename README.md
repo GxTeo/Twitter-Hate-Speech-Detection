@@ -12,15 +12,7 @@ Refers to any form of communication that is considered inappropriate, insensitiv
 
 Data Exploration 
 
-Top 10 hashtag per class
-<img src="visualizations/Top_10_Most_Hashtags.jpg" alt="Top 10 Most Hashtags per class" >
 
-<img src="visualizations/hate_speech_hashtag_wordcloud.jpg" alt="Top 10 Most Hashtags per class" >
-
-<img src="visualizations/hate_speech_hashtag_wordcloud.jpg" alt="Top 10 Most Hashtags per class" >
-
-Top 20 Most Frequent Tokens per class
-<img src="visualizations/Top_20_Most_Frequent Tokens.jpg" alt="Top 20 Most Frequent Tokens per class">
 
 
 
