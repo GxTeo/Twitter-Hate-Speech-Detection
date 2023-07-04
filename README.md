@@ -1,6 +1,6 @@
 # Twitter-Hate-Speech-Detection
 
-This is a take home assignment and the task is to classify the tweets into three classes, 1. Hate Speech, 2. Offensive Language and 3. Neither.
+This is a self directed assignment and the task is to classify the tweets into three classes, 1. Hate Speech, 2. Offensive Language and 3. Neither.
 
 Common definition of hate speech:
 
